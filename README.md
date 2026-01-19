@@ -35,5 +35,5 @@ This project explores whether winning the toss in the Indian Premier League (IPL
  </ul>
 </li>
 <ul>
-<li>Link to Interactive Dashboard on Tableau Public : [https://public.tableau.com/views/IPLTossAnalysisHowMuchDoesLuckMatter/TossMatters?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link].</li></ul>
+<li>[Link to Interactive Dashboard on Tableau Public] (https://public.tableau.com/views/IPLTossAnalysisHowMuchDoesLuckMatter/TossMatters?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)</li></ul>
 </ol>
